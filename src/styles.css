@@ -1,0 +1,44 @@
+:root {
+  --primary-color: #050969;
+}
+
+.column {
+  border-right-style: solid;
+  border-right-width: 2px;
+  border-color: var(--primary-color);
+}
+h2 {
+  color: var(--primary-color);
+  padding: 2px;
+  border-bottom-style: solid;
+  border-bottom-color: #ffc009;
+  margin-left: 2px;
+  padding-bottom: 4px;
+}
+.label {
+  padding: 2px 5px;
+}
+input {
+  border-radius: 5px;
+  border: 1px solid #a7a8ca;
+  color: var(--primary-color);
+  padding: 0.3rem;
+}
+.input {
+  margin-top: 50px;
+  /*width: 20rem;*/
+  color: var(--primary-color);
+}
+
+.payment-methods > button {
+  color: var(--primary-color);
+  border: 1px solid var(--primary-color);
+}
+
+.close-icon {
+  color: red;
+}
+.list-color > a {
+  color: var(--primary-color);
+  border-color: var(--primary-color);
+}
