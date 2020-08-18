@@ -19,10 +19,6 @@ export default function App() {
         </span>
         <div className="col-lg-4">
           <Header />
-          <InputOTP />
-          <InputBox />
-          <GetLocation />
-          <CityDetails />
         </div>
         <div className="col-lg-8">
           <NetBankingDetails />

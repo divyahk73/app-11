@@ -11,48 +11,12 @@ function InputOTP() {
   };
   return (
     <div>
-      <input
-        className="input my-3 mx-1"
-        style={style}
-        type="text"
-        value="8"
-        size="1"
-      />
-      <input
-        className="input my-3 mx-1"
-        style={style}
-        type="text"
-        value="8"
-        size="1"
-      />
-      <input
-        className="input my-3 mx-1"
-        style={style}
-        type="text"
-        value="8"
-        size="1"
-      />
-      <input
-        className="input my-3 mx-1"
-        style={style}
-        type="text"
-        value="8"
-        size="1"
-      />
-      <input
-        className="input my-3 mx-1"
-        style={style}
-        type="text"
-        value="8"
-        size="1"
-      />
-      <input
-        className="input my-3 mx-1"
-        style={style}
-        type="text"
-        value="8"
-        size="1"
-      />
+      <input className="input my-3 mx-1" style={style} type="text" size="1" />
+      <input className="input my-3 mx-1" style={style} type="text" size="1" />
+      <input className="input my-3 mx-1" style={style} type="text" size="1" />
+      <input className="input my-3 mx-1" style={style} type="text" size="1" />
+      <input className="input my-3 mx-1" style={style} type="text" size="1" />
+      <input className="input my-3 mx-1" style={style} type="text" size="1" />
 
       <a className="ml-1 my-1" style={{ color: "#050569" }} href="#">
         Resend OTP

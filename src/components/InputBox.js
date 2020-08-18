@@ -5,7 +5,7 @@ function InputBox() {
       <input
         className="col-12 my-3 mx-1"
         type="text"
-        value="dharanee86@gmail.com"
+        placeholder="dharanee86@gmail.com"
       />
       <input
         className="col-12 my-3 mx-1"
